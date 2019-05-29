@@ -40,7 +40,6 @@ $('#play').click(function (){
 });
 
 //Pause Button
-
 $('#pause').click(function (){
 	audio.pause();
 	$('#pause').hide();
